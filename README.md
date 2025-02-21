@@ -1,184 +1,62 @@
-# Python_project
-Auto-commit on 2025-02-18 17:23:48 | rand=37650
-
-Auto-commit on 2025-02-18 17:37:43 | rand=13023
-
-Auto-commit on 2025-02-18 18:32:15 | rand=41871
-
-Auto-commit on 2025-02-18 18:45:05 | rand=29846
-
-Auto-commit on 2025-02-18 18:57:59 | rand=6049
-
-Auto-commit on 2025-02-18 19:10:51 | rand=73910
-
-Auto-commit on 2025-02-18 19:23:41 | rand=81192
-
-Auto-commit on 2025-02-18 19:36:29 | rand=88080
-
-Auto-commit on 2025-02-18 19:49:26 | rand=37388
-
-Auto-commit on 2025-02-18 20:02:17 | rand=90782
-
-Auto-commit on 2025-02-18 20:15:11 | rand=69635
-
-Auto-commit on 2025-02-18 20:28:04 | rand=61996
-
-Auto-commit on 2025-02-18 20:41:00 | rand=83007
-
-Auto-commit on 2025-02-18 20:53:53 | rand=86746
-
-Auto-commit on 2025-02-18 21:06:46 | rand=98962
-
-Auto-commit on 2025-02-18 21:19:39 | rand=65991
-
-Auto-commit on 2025-02-18 21:32:32 | rand=92155
-
-Auto-commit on 2025-02-19 08:22:18 | rand=85548
-
-Auto-commit on 2025-02-19 08:35:13 | rand=12154
-
-Auto-commit on 2025-02-19 08:48:14 | rand=46893
-
-Auto-commit on 2025-02-19 09:01:10 | rand=11719
-
-Auto-commit on 2025-02-19 09:13:59 | rand=28530
-
-Auto-commit on 2025-02-19 09:26:57 | rand=306
-
-Auto-commit on 2025-02-19 09:39:55 | rand=55611
-
-Auto-commit on 2025-02-19 09:52:55 | rand=4656
-
-Auto-commit on 2025-02-19 10:05:46 | rand=71548
-
-Auto-commit on 2025-02-19 10:18:45 | rand=62794
-
-Auto-commit on 2025-02-19 10:31:35 | rand=58699
-
-Auto-commit on 2025-02-19 10:44:26 | rand=39812
-
-Auto-commit on 2025-02-19 10:57:24 | rand=19582
-
-Auto-commit on 2025-02-19 11:10:16 | rand=28373
-
-Auto-commit on 2025-02-19 11:23:14 | rand=59143
-
-Auto-commit on 2025-02-19 18:34:36 | rand=2367
-
-Auto-commit on 2025-02-19 18:47:34 | rand=53561
-
-Auto-commit on 2025-02-19 19:00:32 | rand=32423
-
-Auto-commit on 2025-02-19 19:13:23 | rand=69735
-
-Auto-commit on 2025-02-19 19:26:19 | rand=96404
-
-Auto-commit on 2025-02-19 19:39:13 | rand=73482
-
-Auto-commit on 2025-02-19 19:52:04 | rand=89329
-
-Auto-commit on 2025-02-19 20:05:03 | rand=57045
-
-Auto-commit on 2025-02-19 20:17:56 | rand=54542
-
-Auto-commit on 2025-02-19 20:30:56 | rand=2460
-
-Auto-commit on 2025-02-19 20:43:49 | rand=87529
-
-Auto-commit on 2025-02-19 20:56:45 | rand=88460
-
-Auto-commit on 2025-02-19 21:09:43 | rand=53126
-
-Auto-commit on 2025-02-19 21:22:38 | rand=97564
-
-Auto-commit on 2025-02-19 21:35:36 | rand=83922
-
-Auto-commit on 2025-02-20 09:40:53 | rand=16693
-
-Auto-commit on 2025-02-20 14:16:40 | rand=89748
-
-Auto-commit on 2025-02-20 14:28:47 | rand=88976
-
-Auto-commit on 2025-02-20 14:40:55 | rand=80975
-
-Auto-commit on 2025-02-20 14:52:56 | rand=2058
-
-Auto-commit on 2025-02-20 15:04:53 | rand=33514
-
-Auto-commit on 2025-02-20 15:17:00 | rand=14815
-
-Auto-commit on 2025-02-20 15:29:00 | rand=66549
-
-Auto-commit on 2025-02-20 15:41:06 | rand=60152
-
-Auto-commit on 2025-02-20 15:53:14 | rand=81510
-
-Auto-commit on 2025-02-20 16:05:22 | rand=39132
-
-Auto-commit on 2025-02-20 16:17:25 | rand=4039
-
-Auto-commit on 2025-02-20 16:29:31 | rand=28222
-
-Auto-commit on 2025-02-20 16:41:41 | rand=56345
-
-Auto-commit on 2025-02-20 16:53:43 | rand=65703
-
-Auto-commit on 2025-02-20 17:05:54 | rand=41457
-
-Auto-commit on 2025-02-21 15:19:31 | rand=20634
-
-Auto-commit on 2025-02-21 15:31:36 | rand=39002
-
-Auto-commit on 2025-02-21 15:43:37 | rand=91711
-
-Auto-commit on 2025-02-21 15:55:33 | rand=8771
-
-Auto-commit on 2025-02-21 16:07:28 | rand=73731
-
-Auto-commit on 2025-02-21 16:19:25 | rand=37354
-
-Auto-commit on 2025-02-21 16:31:26 | rand=36188
-
-Auto-commit on 2025-02-21 16:43:30 | rand=70687
-
-Auto-commit on 2025-02-21 16:55:33 | rand=4620
-
-Auto-commit on 2025-02-21 17:07:29 | rand=362
-
-Auto-commit on 2025-02-21 17:19:30 | rand=65470
-
-Auto-commit on 2025-02-21 17:31:32 | rand=67271
-
-Auto-commit on 2025-02-21 17:43:28 | rand=49962
-
-Auto-commit on 2025-02-21 17:55:27 | rand=10552
-
-Auto-commit on 2025-02-21 18:07:28 | rand=26633
-
-Auto-commit on 2025-02-22 00:25:44 | rand=29269
-
-Auto-commit on 2025-02-22 00:37:53 | rand=53773
-
-Auto-commit on 2025-02-22 00:49:55 | rand=7902
-
-Auto-commit on 2025-02-22 01:01:57 | rand=76958
-
-Auto-commit on 2025-02-22 01:13:59 | rand=22606
-
-Auto-commit on 2025-02-22 01:26:07 | rand=60172
-
-Auto-commit on 2025-02-22 01:38:06 | rand=95355
-
-Auto-commit on 2025-02-22 01:50:11 | rand=82443
-
-Auto-commit on 2025-02-22 02:02:10 | rand=50431
-
-Auto-commit on 2025-02-22 02:14:18 | rand=42933
-
-Auto-commit on 2025-02-22 02:26:25 | rand=10370
-
-Auto-commit on 2025-02-22 02:38:34 | rand=25069
-
-Auto-commit on 2025-02-22 02:50:38 | rand=46172
-
-Auto-commit on 2025-02-22 03:02:50 | rand=70892
+![Async Logo](https://raw.githubusercontent.com/caolan/async/master/logo/async-logo_readme.jpg)
+
+[![Build Status via Travis CI](https://travis-ci.org/caolan/async.svg?branch=master)](https://travis-ci.org/caolan/async)
+[![Build Status via Azure Pipelines](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master)
+[![NPM version](https://img.shields.io/npm/v/async.svg)](https://www.npmjs.com/package/async)
+[![Coverage Status](https://coveralls.io/repos/caolan/async/badge.svg?branch=master)](https://coveralls.io/r/caolan/async?branch=master)
+[![Join the chat at https://gitter.im/caolan/async](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/caolan/async?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/async/badge?style=rounded)](https://www.jsdelivr.com/package/npm/async)
+
+<!--
+|Linux|Windows|MacOS|
+|-|-|-|
+|[![Linux Build Status](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master&jobName=Linux&configuration=Linux%20node_10_x)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master) | [![Windows Build Status](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master&jobName=Windows&configuration=Windows%20node_10_x)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master) | [![MacOS Build Status](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master&jobName=OSX&configuration=OSX%20node_10_x)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master)| -->
+
+Async is a utility module which provides straight-forward, powerful functions for working with [asynchronous JavaScript](http://caolan.github.io/async/v3/global.html). Although originally designed for use with [Node.js](https://nodejs.org/) and installable via `npm i async`, it can also be used directly in the browser.  A ESM/MJS version is included in the main `async` package that should automatically be used with compatible bundlers such as Webpack and Rollup.
+
+A pure ESM version of Async is available as [`async-es`](https://www.npmjs.com/package/async-es).
+
+For Documentation, visit <https://caolan.github.io/async/>
+
+*For Async v1.5.x documentation, go [HERE](https://github.com/caolan/async/blob/v1.5.2/README.md)*
+
+
+```javascript
+// for use with Node-style callbacks...
+var async = require("async");
+
+var obj = {dev: "/dev.json", test: "/test.json", prod: "/prod.json"};
+var configs = {};
+
+async.forEachOf(obj, (value, key, callback) => {
+    fs.readFile(__dirname + value, "utf8", (err, data) => {
+        if (err) return callback(err);
+        try {
+            configs[key] = JSON.parse(data);
+        } catch (e) {
+            return callback(e);
+        }
+        callback();
+    });
+}, err => {
+    if (err) console.error(err.message);
+    // configs is now a map of JSON data
+    doSomethingWith(configs);
+});
+```
+
+```javascript
+var async = require("async");
+
+// ...or ES2017 async functions
+async.mapLimit(urls, 5, async function(url) {
+    const response = await fetch(url)
+    return response.body
+}, (err, results) => {
+    if (err) throw err
+    // results is now an array of the response bodies
+    console.log(results)
+})
+```
+
+Auto-commit on 2025-02-22 03:15:00 | rand=65490
